@@ -67,7 +67,7 @@ setlocale(LC_ALL,"Turkish");
 		goto etken;
 		
 		case 2:
-		table(5,20);cout << "github.com/s0l0n3t/"<<"\n\nKlanlar (request1) - HELL";
+		table(5,20);cout <<"\n\nKlanlar (request1) - HELL";
 		table(12,5);cout << "Kaç saldırı olacak :";cin >> a;
 		sendKeyDown(VK_MENU);
 		sendKeyDown(VK_TAB);
