@@ -50,13 +50,13 @@ setlocale(LC_ALL,"Turkish");
 	table(12,3);cout << "1- 1280 x 1024";
 	table(12,4);cout << "2- 1280 x 978";
 	table(12,5);cout << "3- 1440 x 900";
-	table(5,20);cout << "github.com/s0l0n3t/"<<"\n\nKlanlar (request1) - HELL";
+	table(5,20);cout <<"\n\nKlanlar (request1) - HELL";
 	table(12,10);cout << "Hangi Çözünürlük :";cin >> pixel;
 	
 	system("Cls");
 	switch(pixel){
 		case 1:
-		table(5,20);cout << "github.com/s0l0n3t/"<<"\n\nKlanlar (request1) - HELL";
+		table(5,20);cout <<"\n\nKlanlar (request1) - HELL";
 		table(12,5);cout << "Kaç saldırı olacak :";cin >> a;
 		sendKeyDown(VK_MENU);
 		sendKeyDown(VK_TAB);
@@ -78,7 +78,7 @@ setlocale(LC_ALL,"Turkish");
 		goto etken;
 		
 		case 3:
-		table(5,20);cout << "github.com/fscr3am/"<<"\n\nKlanlar (request1) - HELL";
+		table(5,20);cout <<"\n\nKlanlar (request1) - HELL";
 		table(12,5);cout << "Kaç saldırı olacak :";cin >> a;
 		sendKeyDown(VK_MENU);
 		sendKeyDown(VK_TAB);
